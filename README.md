@@ -5,6 +5,8 @@ These are the five projects that I worked on in my CODSOFT Python programming in
 I learned and improved my skills a alot while designing and implementing rockpaperscissors game, crafted a nice ToDoList for varied categories
 of day in day out live activities, implemented an amazing password gernerator, designed a simple contact book as well as beatiful calculator.
 
+The following are the graphical user interfaces of the five projects. 
+
 RockPaperScissors Game
 
 ![rockpaperscissors](https://github.com/EmmaculateC/CODSOFT/assets/125630933/30d2d2e1-ec5d-4b18-b8f5-496a5e5e7ab8)
@@ -32,6 +34,7 @@ Contact Book
 
 In all these projects, I explicitly used python programming language.
 
+To all the tech enthusiasts who will come across this repo, drop a review.
 
 
 
